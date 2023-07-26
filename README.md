@@ -8,3 +8,5 @@ In my opinion not bad practice and another new skill.
 - there is a good third-party library [openpyxl](https://pypi.org/project/openpyxl/).
 - python script.
 - excel program for data visualization and results.
+
+https://github.com/Nazar-Pichak/json_excel_parsing/assets/103797791/fe5eadcf-def5-4357-99c4-febfcd61d861
