@@ -11,9 +11,10 @@ In my opinion not bad practice and another new skill.
 
 https://github.com/Nazar-Pichak/json_excel_parsing/assets/103797791/fe5eadcf-def5-4357-99c4-febfcd61d861
 
-# Instalation
+# Installation
 
 ```
 python -m pip install --upgrade pip
 python -m venv env
-pip install openpyxl ```
+pip install openpyxl
+```
