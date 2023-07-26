@@ -16,5 +16,6 @@ https://github.com/Nazar-Pichak/json_excel_parsing/assets/103797791/fe5eadcf-def
 ```
 python -m pip install --upgrade pip
 python -m venv env
+.\env\Scripts\activate
 pip install openpyxl
 ```
