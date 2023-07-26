@@ -7,7 +7,6 @@ In my opinion not bad practice and another new skill.
 
 - there is a good third-party library [openpyxl](https://pypi.org/project/openpyxl/).
 - python script.
-- excel program for visualization of data.
+- excel program for data visualization.
 
-
-
+<video src="json_to_excel%20-%20Excel%202023-07-27%2000-15-24.mp4" controls title="Title"></video>
