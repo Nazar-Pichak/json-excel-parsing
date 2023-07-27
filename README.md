@@ -18,4 +18,6 @@ python -m pip install --upgrade pip
 python -m venv env
 .\env\Scripts\activate
 pip install openpyxl
+git clone https://github.com/Nazar-Pichak/json_excel_parsing.git
+python main.py
 ```
