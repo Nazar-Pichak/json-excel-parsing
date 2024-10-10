@@ -16,9 +16,11 @@ https://github.com/Nazar-Pichak/json_excel_parsing/assets/103797791/fe5eadcf-def
 
 # Installation
 
-```
-```mkdir``` your dir
-git clone https://github.com/Nazar-Pichak/json_excel_parsing.git
+```mkdir``` **your dir name**
+
+
+```git clone https://github.com/Nazar-Pichak/json_excel_parsing.git```
+
 python -m pip install --upgrade pip
 python -m venv env
 .\env\Scripts\activate
