@@ -16,16 +16,16 @@ https://github.com/Nazar-Pichak/json_excel_parsing/assets/103797791/fe5eadcf-def
 
 # Installation
 ```mkdir``` **your dir name** ```cd``` to **your dir name** 
-- cloning the repo
+cloning the repo
 ```git clone https://github.com/Nazar-Pichak/json_excel_parsing.git```
-- apdate your pip installer
+apdate your pip installer
 ```python -m pip install --upgrade pip```
-- areate a virtual environment for project
+areate a virtual environment for project
 ```python -m venv env```
-- activate your virtual environment
+activate your virtual environment
 ```.\env\Scripts\activate```
-- install external library 
+install external library 
 ```pip install openpyxl```
-- run the code
+run the code
 ```python main.py```
 
