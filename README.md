@@ -17,10 +17,11 @@ https://github.com/Nazar-Pichak/json_excel_parsing/assets/103797791/fe5eadcf-def
 # Installation
 
 ```
+mkdir **name of your dir**
+git clone https://github.com/Nazar-Pichak/json_excel_parsing.git
 python -m pip install --upgrade pip
 python -m venv env
 .\env\Scripts\activate
 pip install openpyxl
-git clone https://github.com/Nazar-Pichak/json_excel_parsing.git
 python main.py
 ```
