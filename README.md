@@ -15,15 +15,17 @@ In my opinion not bad practice and another new skill.
 https://github.com/Nazar-Pichak/json_excel_parsing/assets/103797791/fe5eadcf-def5-4357-99c4-febfcd61d861
 
 # Installation
-
 ```mkdir``` **your dir name**
-
-
+# Cloning the repo
 ```git clone https://github.com/Nazar-Pichak/json_excel_parsing.git```
+# Update your pip installer
+```python -m pip install --upgrade pip```
+# Create a virtual environment for project
+```python -m venv env```
+# Activate your virtual environment
+```.\env\Scripts\activate```
+# Install external library 
+```pip install openpyxl```
+# Run the code
+```python main.py```
 
-python -m pip install --upgrade pip
-python -m venv env
-.\env\Scripts\activate
-pip install openpyxl
-python main.py
-```
